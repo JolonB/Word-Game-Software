@@ -1,0 +1,9 @@
+art
+bed
+bet
+can
+car
+cart
+cat
+caterpillar
+cats
