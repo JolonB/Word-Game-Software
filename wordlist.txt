@@ -1,4 +1,5 @@
 art
+be
 bed
 bet
 can
